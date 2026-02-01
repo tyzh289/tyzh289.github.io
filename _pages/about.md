@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Tianyu Zhang
-
 I am a Computer Science student at University of Houston.
 
 Education
@@ -17,6 +15,6 @@ Education
 
 Links
 ======
-- Department: https://cs.uh.edu
+- Department: [University of Houston CS](https://cs.uh.edu)
 - LinkedIn:
-- Resume:
+- Resume: [Resume](/files/resume.pdf)
